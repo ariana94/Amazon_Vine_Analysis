@@ -3,6 +3,8 @@
 ## Short Overview
 In this project I took a dataset on amazon video game reviews and ran an analysis to see if there were biased 5-star ratings from vine members.
 
+You can find the data by [clicking here](https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Video_Games_v1_00.tsv.gz)
+
 ## The Results
 
 - How many Vine reviews vs non-Vine reviews were there?
